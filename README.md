@@ -8,6 +8,8 @@ Limpieza y transformacion de la base de datos de población, también une los da
 
 Entra:
 "conjunto_de_datos_ageb_urbana_09_cpv2020.csv"
+'RPY_Manzanas_Sample.shp'
+'RPY_Manzanas_Sample.dbf'
 Sale:
 "Reproyectada_datospublicos_SAMPLE_CDM.shp"
 
