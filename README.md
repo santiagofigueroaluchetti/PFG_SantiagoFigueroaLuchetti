@@ -23,7 +23,7 @@ Sale:
 "Tipología_de_gasto_sample.xlsx"
 
 
-# 2. Union_GASTO_GEOMETRIA.ipynb
+# 3. Union_GASTO_GEOMETRIA.ipynb
 Une los datos de tipología de gasto a la geometría urbana de CDM
 
 Entra:
@@ -32,7 +32,7 @@ Sale:
 "Tipologia_de_gasto_enmanzana_SAMPLE.shp"
 
 
-# 3. Union_POB_GASTO_PARADAS.ipynb
+# 4. Union_POB_GASTO_PARADAS.ipynb
 Une los datos públicos, de gasto y paradas de transporte público.
 
 Entra:
@@ -51,7 +51,7 @@ Sale:
 "BUENO_MAZANASPUBLICOSTIPOLOGIAPARADAS_SAMPLE.shp"
 
 
-# 4. PFG_Codigo_completo.py
+# 5. PFG_Codigo_completo.py
 Codigo final donde se realiza el Proyecto de Fin de Grado de forma completa.
 
 Se utiliza:
